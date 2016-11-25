@@ -1,0 +1,6 @@
+c:\users\zhang\documents\visual studio 2015\Projects\IteratorPattern\IteratorPattern\bin\x86\Debug\IteratorPattern.exe.config
+c:\users\zhang\documents\visual studio 2015\Projects\IteratorPattern\IteratorPattern\obj\x86\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+c:\users\zhang\documents\visual studio 2015\Projects\IteratorPattern\IteratorPattern\bin\x86\Debug\IteratorPattern.exe
+c:\users\zhang\documents\visual studio 2015\Projects\IteratorPattern\IteratorPattern\bin\x86\Debug\IteratorPattern.pdb
+c:\users\zhang\documents\visual studio 2015\Projects\IteratorPattern\IteratorPattern\obj\x86\Debug\IteratorPattern.exe
+c:\users\zhang\documents\visual studio 2015\Projects\IteratorPattern\IteratorPattern\obj\x86\Debug\IteratorPattern.pdb
